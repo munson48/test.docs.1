@@ -10,3 +10,9 @@ Topics covering MissionView Display and Designer
 
 - [Adding a server to Display](./addserver.md)
 - [Configuring Loggers](./loggerconfig.md)
+
+## Toolkit APIs
+
+### Java
+
+- [Getting started](./javastart.md)
