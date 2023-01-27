@@ -16,3 +16,4 @@ Topics covering MissionView Display and Designer
 ### Java
 
 - [Getting started](./javastart.md)
+- [Boilerplate and Security](./javasetup.md)

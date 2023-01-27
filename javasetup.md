@@ -45,7 +45,6 @@ server.setSecurityRequired(true);
 ### HTTPS
 
 
-
 #### Hostname verification
 
 A default hostnamer verifier does basic verification. If you desire stronger control over verification, you may substitute or extend ours.
@@ -55,5 +54,3 @@ See: [javax.net.ssl.HostnameVerifier](https://docs.oracle.com/javase/8/docs/api/
 ```java
 HttpsURLConnection.setDefaultHostnameVerifier(new SSLManager.NaHostnameVerifier());
 ```
-
-### 
